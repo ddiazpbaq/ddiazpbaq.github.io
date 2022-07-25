@@ -20,8 +20,19 @@ body{  background-color: #002f87; }
 
   <style> 
 
-        .general {
-          margin-bottom: 90px; 
+       
+        html, body {
+          height: 100%;
+        }
+        body {
+          display: flex;
+          flex-direction: column;
+        }
+        .content {
+          flex: 1 0 auto;
+        }
+        .footer {
+          flex-shrink: 0;
         }
             
         .card {
@@ -142,7 +153,7 @@ body{  background-color: #002f87; }
         background: transparent;
         }
         .card-deck .card-awards:hover {
-        /*box-shadow: 0 40px 60px -20px rgba(8, 4, 43, 0.8);*/ 
+        box-shadow: 0 40px 60px -20px rgba(8, 4, 43, 0.8);
        /* background-color: #261c6a;*/
         }
         .card-deck .card-awards:hover .card-footer .btn{
@@ -302,7 +313,7 @@ body{  background-color: #002f87; }
 
    <!--header-->
 
-<div class="container general"> 
+<div class="container"> 
 
   <main >
   
@@ -366,7 +377,7 @@ body{  background-color: #002f87; }
   </div>
 
  <!--  container-fliud -->
-  
+   
   
  
   </main> 
@@ -378,7 +389,7 @@ body{  background-color: #002f87; }
 <footer id="sticky-footer" class="flex-shrink-0 py-4 bg-dark text-white-50">
 -->
   
-    <footer id="sticky-footer" class="flex-shrink-0 py-2 mt-5">    
+    <footer id="sticky-footer" class="py-2">    
       
       <div class="container"> 
 
