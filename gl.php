@@ -311,7 +311,6 @@ body{  background-color: #00a6ce;  }
 
   <main >
   
-   
     <div class="row card-group mt-5">
   
       <div class="col"> 
