@@ -319,8 +319,6 @@ body{  background-color: #00a6ce;  }
 
       <div class="card card-primary text-center">
         <img class="card-img-top" src="https://drive.google.com/uc?id=10nYlUMu4pB-MpLSntJHVsjDBhEdYEpZn" alt="Card image cap">        
-        <!-- https://static3.avast.com/10001215/web/i/index2/for-partners.jpg -->
-        <!--https://static3.avast.com/10001215/web/i/index2/for-home.jpg--> 
         <div class="card-body">
            <div class="badge badge-primary badge-sm"></div> 
           <p>Si vas a realizar solicitudes para las áreas de:</p>
