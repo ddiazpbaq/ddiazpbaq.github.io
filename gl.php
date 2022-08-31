@@ -321,7 +321,7 @@ body{  background-color: #00a6ce;  }
            <div class="badge badge-primary badge-sm"></div> 
           <p>Si vas a realizar solicitudes para las áreas de:</p> 
            <div class="card-title"></div> 
-          <div class="badge badge-primary badge-sm">SEGURIDAD</div>
+          <div class="badge badge-primary badge-sm">SEGURIDAD_</div>
           <!--<div class="badge badge-primary badge-sm">MANTENIMIENTO</div>
           <div class="badge badge-primary badge-sm">OBRAS CIVILES</div> -->
           <p class="card-text"></p> 
