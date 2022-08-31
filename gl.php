@@ -315,7 +315,7 @@ body{  background-color: #00a6ce;  }
     <!--row card-group -->
     <div class="row card-group mt-5">
 
-      <div class="col">
+      <div class="col"> 
 
       <div class="card card-primary text-center">
         <img class="card-img-top" src="https://drive.google.com/uc?id=10nYlUMu4pB-MpLSntJHVsjDBhEdYEpZn" alt="Card image cap">       
