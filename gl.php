@@ -319,7 +319,7 @@ body{  background-color: #00a6ce;  }
         <img class="card-img-top" src="https://drive.google.com/uc?id=10nYlUMu4pB-MpLSntJHVsjDBhEdYEpZn" alt="Card image cap">        
         <div class="card-body">
            <div class="badge badge-primary badge-sm"></div> 
-          <p>Si vas a realizar solicitudes para las áreas de:</p>
+          <p>Si vas a realizar solicitudes para las áreas de:</p> 
            <div class="card-title"></div> 
           <div class="badge badge-primary badge-sm">SEGURIDAD</div>
           <!--<div class="badge badge-primary badge-sm">MANTENIMIENTO</div>
