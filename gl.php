@@ -309,7 +309,7 @@ body{  background-color: #00a6ce;  }
 
 <div class="container"> 
 
-  <main >
+  <main>
   
     <div class="row card-group mt-5">
   
