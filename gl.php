@@ -314,7 +314,7 @@ body{  background-color: #00a6ce;  }
     <!--<h2>Cards Primary</h2>-->
     <!--row card-group -->
     <div class="row card-group mt-5">
-
+ 
       <div class="col"> 
 
       <div class="card card-primary text-center">
