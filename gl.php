@@ -400,7 +400,7 @@ body{  background-color: #00a6ce;  }
 
             <div class="col-md-3">
               
-              <img src="https://drive.google.com/uc?id=1D-KdN4pB_Qd9DxrTckLzn4CHgf3ekZ7x" alt="Viligado super transporte" style="width: 200px;height: 80px">   
+              <img src="https://github.com/mesadeayudapbaq/mesadeayudapbaq.github.io/blob/main/vigilado.png" alt="Viligado super transporte" style="width: 200px;height: 80px">   
                            
             </div>
  
